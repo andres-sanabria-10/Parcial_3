@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     const mainContent = document.getElementById('Principal');
-    const PracticeTeacher = document.getElementById('Practice');
-    const MobieinicioLink = document.getElementById('PracticeMobile');
+    const PracticeTeacher = document.getElementById('PracticeTeacher');
+    const MobieinicioLink = document.getElementById('PracticeTeacherMobile');
 
 
     
